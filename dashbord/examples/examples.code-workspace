@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../chit_shit/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
